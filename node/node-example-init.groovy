@@ -1,4 +1,4 @@
-// 优化后
+// 优化前
 node {
     try {
         //import lib
